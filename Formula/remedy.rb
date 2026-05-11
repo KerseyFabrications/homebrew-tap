@@ -1,8 +1,8 @@
 class Remedy < Formula
   desc "Full-featured less-like markdown pager for modern terminals"
   homepage "https://github.com/KerseyFabrications/remedy"
-  url "https://github.com/KerseyFabrications/remedy/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "742f245ff2456e03ec1cfa886d7ad4446ec62bd23c605031d9eafe1927c52575"
+  url "https://github.com/KerseyFabrications/remedy/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "aff21cc1adbecbba28099f4f2d89222d8084f22dfa3f7c72edfa6345caf4087e"
   license "GPL-3.0-or-later"
 
   head "https://github.com/KerseyFabrications/remedy.git", branch: "master"
